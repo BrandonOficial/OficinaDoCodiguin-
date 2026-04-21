@@ -1,0 +1,6 @@
+[
+    { "word": "sol", "class": "NOUN", "features": { "composition": "simples" } },
+    { "word": "guarda-chuva", "class": "NOUN", "features": { "composition": "composto" } },
+    { "word": "correr", "class": "VERB", "features": { "VerbForm": "Inf" } },
+    { "word": "pedreira", "class": "NOUN", "features": { "composition": "simples" } }
+  ]

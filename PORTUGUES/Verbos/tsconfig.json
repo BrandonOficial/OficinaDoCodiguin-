@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "esModuleInterop": true /* Essa é a linha mágica que resolve 99% dos erros de import */,
+    "resolveJsonModule": true /* Garante que o import de arquivos .json funcione liso */,
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
