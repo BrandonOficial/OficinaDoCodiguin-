@@ -1,0 +1,58 @@
+O verbo é palavra que exprime ação, estado, mudança de estado, fenômeno da natureza. É a classe de palavras que apresenta mais flexões. Há flexões verbais de: número, pessoa, modo, tempo e voz.
+
+Exemplos: menino, João, Portugal, caneta, ventania, coragem, corrida.
+
+## Substantivos comuns
+Os substantivos são comuns se eles dão nome a seres de forma genérica.
+
+Exemplos: pessoa, gente, país.
+
+## Substantivos próprios
+Os substantivos são próprios quando eles dão nome a seres de forma particular. Eles são escritos com letra maiúscula.
+
+Exemplos: Maria, São Paulo, Brasil.
+
+## Substantivos simples
+Os substantivos simples são formados por apenas um radical (radical é a parte da palavra que contém o seu significado básico).
+
+Exemplos: casa, carro, camiseta.
+
+## Substantivos compostos
+Os substantivos compostos são formados por mais de um radical (radical é a parte da palavra que contém o seu significado básico).
+
+Exemplos: guarda-chuva, passatempo, beija-flor.
+
+## Substantivos concretos
+Os substantivos concretos designam as palavras reais, concretas, sejam elas pessoas, objetos, animais ou lugares.
+
+Exemplos: menina, homem, cachorro.
+
+## Substantivos abstratos
+Os substantivos abstratos são aqueles relacionados aos sentimentos, estados, qualidades e ações.
+
+Exemplos: beleza, alegria, bondade.
+
+## Substantivos primitivos
+Os substantivos primitivos, como o próprio nome indica, são aqueles que não derivam de outras palavras.
+
+Exemplos: casa, folha, chuva.
+
+## Substantivos derivados
+Os substantivos derivados são aquelas palavras que derivam de outras.
+
+Exemplos: casarão (derivado de casa), folhagem (derivado de folha), chuvarada (derivado de chuva).
+
+## Substantivos coletivos
+Os substantivos coletivos são aqueles que se referem a um conjunto de seres.
+
+Exemplos: flora (conjunto de plantas), álbum (conjunto de fotos), colmeia (conjunto de abelhas).
+
+## Substantivos biformes
+apresentam duas formas, ou seja, uma para o masculino e outra para o feminino. Exemplos: professor e professora; amigo e amiga
+
+## Substantivos uniformes
+omente um termo especifica os dois gêneros (masculino e feminino), sendo classificados em: epiceno, sobrecomum e comum de dois gêneros.
+
+Epicenos: apresenta somente um gênero e refere-se aos animais. Exemplo: foca (macho ou fêmea).
+Sobrecomum: apresenta somente um gênero e refere-se às pessoas. Exemplo: criança (masculino e feminino).
+Comum de dois gêneros: termo que se refere aos dois gêneros (masculino e feminino), identificado por meio do artigo que o acompanha. Exemplo: "o artista" e "a artista".
